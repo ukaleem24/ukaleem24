@@ -16,8 +16,6 @@ Full-Stack Software Engineer | AI & Industrial Digitalization | Building scalabl
 
 * 📫 How to reach me: **[kaleem.tuc@gmail.com](mailto:kaleem.tuc@gmail.com)**
 
-* 📄 Resume: **https://drive.google.com/file/d/1Zc86oHTILVJ51gG_jma2eQpN1iJtm5CT/view**
-
 <h3 align="left">🚀 Current Focus</h3>
 
 * Building software solutions for the EU-funded AI-MATTERS project
