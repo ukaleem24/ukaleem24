@@ -14,7 +14,7 @@ Full-Stack Software Engineer | AI & Industrial Digitalization | Building scalabl
 
 * 🚀 Interested in **Full-Stack Development, AI Systems, Digital Twins, IoT, and Industrial Automation**
 
-* 📫 How to reach me: **[ukaleem24@gmail.com](mailto:ukaleem24@gmail.com)**
+* 📫 How to reach me: **[kaleem.tuc@gmail.com](mailto:kaleem.tuc@gmail.com)**
 
 * 📄 Resume: **https://drive.google.com/file/d/1Zc86oHTILVJ51gG_jma2eQpN1iJtm5CT/view**
 
